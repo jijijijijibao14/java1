@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.mycompany</groupId>
+<<<<<<< HEAD
+    <artifactId>Company</artifactId>
+=======
+    <artifactId>MoutainHiking</artifactId>
+>>>>>>> e47424b4bf77ba2cc84c22eee1baff5136ff4cd1
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>22</maven.compiler.source>
+        <maven.compiler.target>22</maven.compiler.target>
+<<<<<<< HEAD
+        <exec.mainClass>com.mycompany.company.Company</exec.mainClass>
+=======
+        <exec.mainClass>com.mycompany.moutainhiking.MoutainHiking</exec.mainClass>
+>>>>>>> e47424b4bf77ba2cc84c22eee1baff5136ff4cd1
+    </properties>
+</project>

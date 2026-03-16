@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+business\Departments.class
+tools\Inputer.class
+tools\Acceptable.class
+business\Employees.class
+model\Employee.class
+controller\Main.class
+model\Department.class
+=======
+business\Students.class
+model\Mountain.class
+tools\Inputer.class
+tools\Acceptable.class
+model\Student.class
+business\Mountains.class
+controller\Main.class
+>>>>>>> e47424b4bf77ba2cc84c22eee1baff5136ff4cd1
